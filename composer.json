@@ -1,0 +1,17 @@
+{
+    "name": "root/kontener",
+    "authors": [
+        {
+            "name": "lordhasyim",
+            "email": "lordhasyim@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kontener\\Container\\": "src/"
+        }
+    },
+    "require": {
+        "container-interop/container-interop": "^1.2"
+    }
+}
